@@ -1,5 +1,5 @@
 # Goose App
-This is a simple app that add migration tool to your project. It is based on [goose](github.com/pressly/goose) and [cobra](github.com/spf13/cobra) libraries.
+This is a simple app that add migration tool to your project. It is based on [goose](https://github.com/pressly/goose) and [cobra](https://github.com/spf13/cobra) libraries.
 
 ## Usage
 ```bash
